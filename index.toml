@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/youritemsaresafe.json5"
+hash = "96cc976e1fd9a39d04504291860c58dd2afe994937c46b1380249a62d6c04f67"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -226,11 +230,6 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "9e7c1e6cf3b81dce5a77bf5c95ed9d8e9b936b932aeadb1255245234230ced16"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "00f9b2440c115b26b38b8477a7481f27d20966e6b9a95d1908e68a07336bedd0"
 metafile = true
@@ -269,3 +268,7 @@ metafile = true
 file = "mods/your-items-are-safe.pw.toml"
 hash = "e9fc99724fb2d5cb665005dffda212cd331e0df312b4bfea824ae3aba58c3ad5"
 metafile = true
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.8e.zip"
+hash = "c8515a8729e01bc6faad846f773f89eeef0119051be906f67a5bd1fda88fa650"
