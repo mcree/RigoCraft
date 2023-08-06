@@ -45,6 +45,22 @@ file = "config/customsplashscreen/wide_logo.png"
 hash = "6d37b3a90cba8f97ef656662700146125f072551cc0dcb56c6f40f37f21fb5f7"
 
 [[files]]
+file = "config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "624350e767c3466425e5096f8d59e2e258b96f766f3ba1bcf1ec2f65cf77c411"
+
+[[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
+
+[[files]]
+file = "config/diggusmaximus/grouping.json5"
+hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
+
+[[files]]
 file = "config/youritemsaresafe.json5"
 hash = "96cc976e1fd9a39d04504291860c58dd2afe994937c46b1380249a62d6c04f67"
 
