@@ -304,6 +304,11 @@ hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]
+file = "mods/polydex.pw.toml"
+hash = "e61806b270ef2e345a502210b02bb07607e102a0e0aca8b73ac9762dca437e8c"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
 metafile = true
