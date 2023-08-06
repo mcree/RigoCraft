@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customsplashscreen.json"
+hash = "dd4f503030bb4dadfdfd149ebc7f6083b08dcc50cc49714ff4c4a8367afd145c"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/buzzybees.jpg"
+hash = "baf71cad0ab91e0f62fb599bc5e7bbf04800dbd3fffb97aa5bcd020d64151601"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/cave.jpg"
+hash = "98fc0e07c8a37487a2a694fd38c88e9ed0c8627c0b398d5bf8a45cf2e72e5eb8"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/caves_and_cliffs.jpg"
+hash = "fa5b3e9b9796f23fc6c161b4755ba9e70cc13f79428570ebcc356230189a0ab2"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/deluxe.jpg"
+hash = "5dc7e9b623628836f8a9c505841fb38c0f7de47bc77a3f03e9f65c54c4f494f8"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/firework.jpg"
+hash = "50e345afdc7c38164f0138f24bff3d1df18fe01a88d9c40d1af6d050aaa9e2f1"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/hill.jpg"
+hash = "72ac7dae5a56f1729425c7708077e43f0c3ec3f8dbf8c54e3509a826a95fbfd8"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/nether_update.jpg"
+hash = "1ce937bb02ca81473bf6bd47ce0fef871ce5383e94db92a989c618a1e23b903d"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/update_aquatic.jpg"
+hash = "fc5aee3c5a6cc382182c0a737ddf430899bf803823cedae52698df8ff9ae178c"
+
+[[files]]
+file = "config/customsplashscreen/backgrounds/village_and_pillage.jpg"
+hash = "a97d39b8793794b6f1680ba1f95d3d41473d6f4bc45608775665cead366da31a"
+
+[[files]]
+file = "config/customsplashscreen/wide_logo.png"
+hash = "6d37b3a90cba8f97ef656662700146125f072551cc0dcb56c6f40f37f21fb5f7"
+
+[[files]]
 file = "config/youritemsaresafe.json5"
 hash = "96cc976e1fd9a39d04504291860c58dd2afe994937c46b1380249a62d6c04f67"
 
@@ -30,23 +74,8 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
-metafile = true
-
-[[files]]
-file = "mods/better-animations-collection.pw.toml"
-hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
 metafile = true
 
 [[files]]
@@ -57,16 +86,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
@@ -185,11 +204,6 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -265,18 +279,8 @@ hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]
-file = "mods/prism-lib.pw.toml"
-hash = "e51bce9d59f8db31f2730a742b84917a3729388f2fc44e0aa51fa39f9dfb43d5"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "fa7fa0f6977b9d4225035bd8d9abde8e1074fe7c7f24d2dba2682f6f381e73a3"
 metafile = true
 
 [[files]]
