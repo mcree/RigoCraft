@@ -1,5 +1,1 @@
 hash-format = "sha256"
-
-[[files]]
-file = "LICENSE"
-hash = "557f4b16e104bc9df4c208031882593a82b4b38d3c648d697a30f6c6d262a308"
