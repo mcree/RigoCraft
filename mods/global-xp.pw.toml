@@ -1,0 +1,13 @@
+name = "Global XP"
+filename = "globalxp-fabric-1.20.1-1.10.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bSkHUVQQ/versions/HZEyq4zI/globalxp-fabric-1.20.1-1.10.3.jar"
+hash-format = "sha1"
+hash = "4973729f803b0bd24a0f00d716fa84abb996b810"
+
+[update]
+[update.modrinth]
+mod-id = "bSkHUVQQ"
+version = "HZEyq4zI"
