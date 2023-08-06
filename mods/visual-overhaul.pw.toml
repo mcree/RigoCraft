@@ -1,0 +1,13 @@
+name = "Visual Overhaul"
+filename = "visualoverhaul-fabric-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YQnwl5Vv/versions/WisLIPQ9/visualoverhaul-fabric-5.0.1.jar"
+hash-format = "sha1"
+hash = "6f6bb210cfb10d0e357ad63249eeaa76b541c04f"
+
+[update]
+[update.modrinth]
+mod-id = "YQnwl5Vv"
+version = "WisLIPQ9"
