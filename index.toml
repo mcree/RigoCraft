@@ -1,5 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "LICENSE"
-hash = "309337580c9f39af756db01b05b906c9f9d48c6664c8b325fc0623c22bed7859"
+files = []
