@@ -250,6 +250,11 @@ hash = "d33f01502da3fe555c3da1c15d2168fb96060e42427661aa0620c877a2554ae5"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
 metafile = true
