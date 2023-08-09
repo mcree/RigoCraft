@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "a459c13e30ee0ebb0b962dcef24dbdb5548525c232b4c2c9e966bc7d29e7250f"
+
+[[files]]
 file = "config/customsplashscreen.json"
 hash = "dd4f503030bb4dadfdfd149ebc7f6083b08dcc50cc49714ff4c4a8367afd145c"
 
