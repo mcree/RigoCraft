@@ -264,6 +264,16 @@ hash = "d33f01502da3fe555c3da1c15d2168fb96060e42427661aa0620c877a2554ae5"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "e5baa5b81dbd3dda0e75a524c10302d278fceee4be251cdbee2a48bf3eae1f94"
 metafile = true
@@ -354,6 +364,11 @@ hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "692209a11bd8e2c9ab7142872f9fa4fcae11ea959a08468b311ff869f51d8ca9"
 metafile = true
@@ -361,6 +376,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5c1e9362bfd60c41ce752056b2db0e2a16e6ae879265ecf8cc1d5a54dd6ffe9f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
 metafile = true
 
 [[files]]
