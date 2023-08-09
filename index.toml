@@ -165,6 +165,11 @@ hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "198d1d939f6e4feecce2fb0cda26c84397bbb01913514f75b6f60e928b787379"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
 metafile = true
