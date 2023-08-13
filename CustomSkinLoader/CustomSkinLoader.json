@@ -95,7 +95,7 @@
   "enableLogStdOut": false,
   "cacheExpiry": 30,
   "forceUpdateSkull": true,
-  "enableLocalProfileCache": false,
+  "enableLocalProfileCache": true,
   "enableCacheAutoClean": true,
-  "forceDisableCache": true
+  "forceDisableCache": false
 }
