@@ -219,6 +219,11 @@ hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "6944abd2e52577ba7a9df22b2603509e8c1f704c3b6b2b538207f3beb56a1384"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
@@ -416,16 +421,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "082579e9bd8277499cffab5e4bcd151f936383caf721ec9e662a0ecd5f0e3052"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "b2cdf503008932825d8cb2c1c60a76f6d8f40814d50652ecb8b6c6001b25d7cd"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "99f6a8c33af6d88f41cee2addaae3c710a6682f978cd0e6bb11b8646f5d2b912"
 metafile = true
 
 [[files]]
