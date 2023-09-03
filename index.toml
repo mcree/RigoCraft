@@ -394,6 +394,11 @@ hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "692209a11bd8e2c9ab7142872f9fa4fcae11ea959a08468b311ff869f51d8ca9"
 metafile = true
