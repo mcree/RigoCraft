@@ -65,6 +65,10 @@ file = "config/diggusmaximus/grouping.json5"
 hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "2e46b0adc02b35230d92e140a38a95fdd7bcd820160473cd63f8ce6bc75ecae3"
+
+[[files]]
 file = "config/youritemsaresafe.json5"
 hash = "96cc976e1fd9a39d04504291860c58dd2afe994937c46b1380249a62d6c04f67"
 
