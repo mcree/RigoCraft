@@ -403,6 +403,11 @@ hash = "2c8dba30f0dd63974cba6e2a30bd6a60f1d69bddce537e5cc2137278926d39e0"
 metafile = true
 
 [[files]]
+file = "mods/silk-spawners.pw.toml"
+hash = "fbd8a48b188d06bc3dc8613d30a9d218c6d98f412518ecae6d2246b10801f6c3"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "b792309099dcdc73c6a783060731494b518dd0e5c708292cb0ad7cbfaebd85d9"
 metafile = true
