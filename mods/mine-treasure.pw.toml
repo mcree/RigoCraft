@@ -1,13 +1,13 @@
 name = "Mine Treasure"
-filename = "mine-treasure-1.2.9.jar"
+filename = "mine-treasure-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5y2R1ofr/versions/QEcfWaHz/mine-treasure-1.2.9.jar"
+url = "https://cdn.modrinth.com/data/5y2R1ofr/versions/qy98k1Ja/mine-treasure-1.3.2.jar"
 hash-format = "sha1"
-hash = "a1fd155efa1db4853d5fc427c5cb2353f3e67b41"
+hash = "b4bc00227054f2108c86fc40b625d6ddd63c9803"
 
 [update]
 [update.modrinth]
 mod-id = "5y2R1ofr"
-version = "QEcfWaHz"
+version = "qy98k1Ja"
