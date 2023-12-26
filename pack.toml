@@ -1,6 +1,6 @@
 name = "RigoCraft"
 author = "Erno Rigo"
-version = "1.0.21"
+version = "1.0.20"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "0b9016bceef7ad4d41ea0df419c41816f2f9e16d6df3a2272cb8f5f5cd074ea1"
 
 [versions]
-fabric = "0.15.2"
+fabric = "0.15.3"
 minecraft = "1.20.1"
