@@ -1,13 +1,13 @@
 name = "RigoCraft"
 author = "Erno Rigo"
-version = "1.0.18"
+version = "1.0.17"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0b9016bceef7ad4d41ea0df419c41816f2f9e16d6df3a2272cb8f5f5cd074ea1"
+hash = "6bfb3417b354ecb01d485bad211e5f210263359469788404d6e8cd5cf9291856"
 
 [versions]
-fabric = "0.15.1"
 minecraft = "1.20.1"
+quilt = "0.23.0-beta.1"
