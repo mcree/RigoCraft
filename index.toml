@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "785d3f4298862aded68ca61ea071828499ce5c6e8bf8a8723978e22319e65797"
+hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
 
 [[files]]
