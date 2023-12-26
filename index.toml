@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "0387180abbcc24d8d55fa01deb53e3393ef86f7331a8605da6dc82c9998c2905"
+hash = "4dae8268f6e4edb0984f33369727254967bc5c58d3308ad6ad7e6387c8b221db"
 metafile = true
 
 [[files]]
