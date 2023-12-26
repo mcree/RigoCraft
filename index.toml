@@ -268,6 +268,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "4dae8268f6e4edb0984f33369727254967bc5c58d3308ad6ad7e6387c8b221db"
+metafile = true
+
+[[files]]
 file = "mods/global-xp.pw.toml"
 hash = "848d2ac47fef16b9962f2aaa7ff33fab8db3d235f6a15051c1a3c36affc11c78"
 metafile = true
