@@ -353,6 +353,11 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/multiworld.pw.toml"
+hash = "ff0ee611a61f5bfdc22ee050d0324f3f5dbb9fa7ef443f23e62515b862cb1b5c"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true

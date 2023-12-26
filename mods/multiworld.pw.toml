@@ -1,0 +1,13 @@
+name = "Multiworld"
+filename = "Multiworld-Fabric-bundle.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgvoNDL1/versions/pmPRKiZG/Multiworld-Fabric-bundle.jar"
+hash-format = "sha1"
+hash = "939e67f3291db9fc399ed09a9232419c3b0f9eac"
+
+[update]
+[update.modrinth]
+mod-id = "fgvoNDL1"
+version = "pmPRKiZG"
