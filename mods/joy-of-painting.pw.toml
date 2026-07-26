@@ -1,0 +1,13 @@
+name = "Joy of Painting"
+filename = "xercapaint-26.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YOs4tZea/versions/GMbSzBYK/xercapaint-26.2-1.0.0.jar"
+hash-format = "sha512"
+hash = "b3d9c2b891e056c1ed9f491d5133591f65ffbd0e7bda671e482607b3fb6190078d1efaf65fc6ac732865f68bb80734c81df67d23473cc576b11efda953bdd7eb"
+
+[update]
+[update.modrinth]
+mod-id = "YOs4tZea"
+version = "GMbSzBYK"

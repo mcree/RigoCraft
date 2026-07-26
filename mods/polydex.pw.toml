@@ -1,0 +1,13 @@
+name = "Polydex"
+filename = "polydex-1.10.0+26.2-rc-2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/wqzSxvmz/polydex-1.10.0%2B26.2-rc-2.jar"
+hash-format = "sha512"
+hash = "5580440dad2e3ed7b8834e8d8de2f9849016d28c84903c2ef742a8d50b7354e33716ca60cec16a205eda9aa7d66cded767ecab63a75b7bef29636bb5356a7603"
+
+[update]
+[update.modrinth]
+mod-id = "m5NB7FJE"
+version = "wqzSxvmz"
