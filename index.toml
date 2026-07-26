@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "d3ebef32fadf877a676d864a27cbe0939f133c0ae998ab26e0232dc580aa2820"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "b561e3d4b6926f4f09f1b0bbc684feb5be397013defa0a6213010814fb422725"
 metafile = true
@@ -56,6 +61,11 @@ hash = "b30b376356614d2607aa0112c6cfe4f7ad1e4ad27b9258139db684fe5c58b2c5"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn-continuation.pw.toml"
+hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "c0f8dd38f84e89870316f0c65ba98bf43fbe38464f9b99ad65e2f06d8a3c1c63"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "81dc680eae06cdc29a93f95659ce7356c9202fac0aa3113796581deab8935f7e"
 metafile = true
 
 [[files]]
@@ -156,6 +171,11 @@ hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "96fa44f8dcf1d307e68395ebb117e9ee7f2015e6e6941198958a0b95dbce6633"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
@@ -178,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/global-xp.pw.toml"
 hash = "238c3789a3de06c345a5cba963716ceb86191b7d5dcd5156a0e686f1da42c86b"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk-v2.pw.toml"
+hash = "2bab0998d1b23069194b242a8bcc5afd2fbbc4047218fdf1d997316fe8cd8221"
 metafile = true
 
 [[files]]
@@ -211,6 +236,16 @@ hash = "214ca2e92e71aa8a3afec72d4729f5c658bf6103e4893787a532da962d9baa31"
 metafile = true
 
 [[files]]
+file = "mods/ketkets-displaycases.pw.toml"
+hash = "f2c2116ef39f6e2fe83d8fea28e32dd82969b52517e4bf64684232697ece1a4c"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d65b395716652327480df4174a2457d6e49fe8c5fa4a47830633458e38e43205"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
 metafile = true
@@ -233,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "f4c469b5105f57152ff1cc6b3fdcfada1b9ab1052ba9ad84fea919f96ab53a05"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2693ec9e793b723ea1dae1912831652dbe5e5caeb3e4adb13496b98d38de1fa3"
 metafile = true
 
 [[files]]
@@ -263,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
+metafile = true
+
+[[files]]
+file = "mods/no-gaps-in-yo-items.pw.toml"
+hash = "919d8c00ab0217e3be54bc09f7555c129c2ca5d144408e9dfdb732c6361c1077"
 metafile = true
 
 [[files]]
@@ -366,6 +411,11 @@ hash = "b1083983d7ac86c52c1bb1da749f132460c4ee9a8875e76c5244037fc1e0de73"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "3e0099a4124fdbead5f0b39eb3aebc6bd117a10ecc6125387dcfdcef40aef152"
 metafile = true
@@ -394,3 +444,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.5c.zip"
+hash = "8b62b38e6572f230b89035a14c13f596e85c29a7a7422d6a654204aac9ee8a05"

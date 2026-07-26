@@ -1,0 +1,13 @@
+name = "Display Cases"
+filename = "ketkets-displaycases-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eZ8HdbsB/versions/O92BD7Uq/ketkets-displaycases-0.4.jar"
+hash-format = "sha512"
+hash = "dd7ce830972a468a666e7b727ab22ae11072c112e960602e7c6a18a4a6a988ff13aa568f2ce582f38d0dd0ee2cbae34223eec1fad5be90fa0f588ea7776c42b8"
+
+[update]
+[update.modrinth]
+mod-id = "eZ8HdbsB"
+version = "O92BD7Uq"

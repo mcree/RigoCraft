@@ -1,0 +1,13 @@
+name = "No Gaps in Yo Items"
+filename = "no-gaps-in-yo-items-1.0.1+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GPbQOUoO/versions/zL0y7WYQ/no-gaps-in-yo-items-1.0.1%2B26.2.jar"
+hash-format = "sha512"
+hash = "7cc2db7fe94ac5dbfd8c7074508a206e1db080b6efc9c9bf8adc9dde6ae83794d45a2ed3f256e9b251b29585bb2747b7cad6bbfbfa538a3d090ece5e8d7f65fb"
+
+[update]
+[update.modrinth]
+mod-id = "GPbQOUoO"
+version = "zL0y7WYQ"
