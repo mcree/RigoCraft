@@ -1,6 +1,6 @@
 name = "Rigo Craft"
 author = "Erno Rigo"
-version = "26.2-8"
+version = "26.2-9"
 pack-format = "packwiz:1.1.0"
 
 [index]
