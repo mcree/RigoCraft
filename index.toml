@@ -46,11 +46,6 @@ hash = "28c7599c8d0a72227dfeef91782e2e8faf2ad6339b30e9b5c846b28173cd32ff"
 metafile = true
 
 [[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "2dcbcc796a06ef651e0fd9022e21ce04aa7680745ea2c3396dc4d50432f7de5c"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b30b376356614d2607aa0112c6cfe4f7ad1e4ad27b9258139db684fe5c58b2c5"
 metafile = true
