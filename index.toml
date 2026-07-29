@@ -85,6 +85,11 @@ hash = "0f5fafa7558f8cd3077e899489e083d8e1872e6a3d07393e5215c3009b72ca6c"
 metafile = true
 
 [[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "cc8f1aab719d9c7bc698cbf68cfca1efbae009665d793f44432c9a8484e31e74"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "c0f8dd38f84e89870316f0c65ba98bf43fbe38464f9b99ad65e2f06d8a3c1c63"
 metafile = true
