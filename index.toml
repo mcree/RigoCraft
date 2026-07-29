@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "AGENTS.md"
+hash = "b7fb8691b17f3bdb893a151c432661694ad207060317a0de7f0cffa8fb863c8a"
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "d3ebef32fadf877a676d864a27cbe0939f133c0ae998ab26e0232dc580aa2820"
 metafile = true
@@ -363,11 +367,6 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "eb58601cf870339b0eb94b5b631fd91ddc6168de6241829ef424a0651dfb83d6"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "be7369da963f5326a771bbfa360365ac6ed939b01c2c268f4dd4a922718cd4a3"
 metafile = true
 
 [[files]]
