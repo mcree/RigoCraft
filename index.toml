@@ -160,11 +160,6 @@ hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "96fa44f8dcf1d307e68395ebb117e9ee7f2015e6e6941198958a0b95dbce6633"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
