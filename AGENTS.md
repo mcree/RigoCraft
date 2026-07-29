@@ -23,7 +23,7 @@ The repo is intentionally minimal and stores only pack metadata and tracked cont
 
 1. Use `packwiz.exe` for add/remove/update workflows whenever possible.
 2. Run `packwiz refresh` after manual metadata/content edits.
-3. If pack contents change, bump `pack.toml` `version` so launchers detect updates.
+3. Always bump `pack.toml` `version` whenever any pack file changes (mods, index, shaderpacks, configs, metadata) so launchers detect updates.
 4. Keep `side` accurate in each mod metafile (`client`, `server`, or `both`).
 5. Do not hand-edit `index.toml` unless absolutely necessary; let Packwiz regenerate it.
 
@@ -81,7 +81,7 @@ Use this after major changes to confirm adds/removals.
 1. Make change with Packwiz (`add`, `remove`, `update`) or edit `*.pw.toml` if needed.
 2. Run `packwiz refresh`.
 3. Validate expected entries with `packwiz list`.
-4. Increment pack version in `pack.toml`.
+4. Increment pack version in `pack.toml` (required for every pack change).
 5. Re-run `packwiz refresh` if version or tracked files changed.
 6. Check git diff/status and keep only intended changes.
 
@@ -125,5 +125,5 @@ Expect typical touched files:
 - [ ] Correct `side` on affected mods
 - [ ] `packwiz refresh` completed successfully
 - [ ] `packwiz list` reflects intended state
-- [ ] `pack.toml` version bumped when pack content changed
+- [ ] `pack.toml` version bumped for this change set
 - [ ] Git working tree contains only intended files

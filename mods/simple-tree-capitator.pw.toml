@@ -1,0 +1,13 @@
+name = "Simple Tree Capitator"
+filename = "simple-tree-capitator-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCSyFPlY/versions/mEs64d9A/simple-tree-capitator-1.0.2.jar"
+hash-format = "sha512"
+hash = "b76a3ccd3401ee023aa9a880b5d23f9d47730e41635777ff99e841404833553d03c50e9e4e9d30b62a5481cca52d246f2c7e8fe926765cfb13e22fbe1334bfca"
+
+[update]
+[update.modrinth]
+mod-id = "zCSyFPlY"
+version = "mEs64d9A"

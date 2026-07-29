@@ -370,6 +370,11 @@ hash = "eb58601cf870339b0eb94b5b631fd91ddc6168de6241829ef424a0651dfb83d6"
 metafile = true
 
 [[files]]
+file = "mods/simple-tree-capitator.pw.toml"
+hash = "e46a2a1b3be6d18878c7069b197ee097b43bca8deb219ec6b18b1fcce2e3b805"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "644ddbc60e86a7b4f3cffcc57baf23901933bbdd5cad87308a22d60ec2eb7b18"
 metafile = true
