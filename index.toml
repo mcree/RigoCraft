@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "AGENTS.md"
-hash = "b7fb8691b17f3bdb893a151c432661694ad207060317a0de7f0cffa8fb863c8a"
+hash = "f60adabd8ca760a3b93f99eec6cc4ac842686d3839fa0e7145f8ced21f37713e"
 
 [[files]]
 file = "mods/advancements-reloaded.pw.toml"
@@ -82,11 +82,6 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "0f5fafa7558f8cd3077e899489e083d8e1872e6a3d07393e5215c3009b72ca6c"
-metafile = true
-
-[[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "cc8f1aab719d9c7bc698cbf68cfca1efbae009665d793f44432c9a8484e31e74"
 metafile = true
 
 [[files]]
