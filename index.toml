@@ -355,11 +355,6 @@ hash = "3a5aaf6e5dd63bdbcadf292b6ff5b0ced345a25927414ca199a5ec0e24d5c13a"
 metafile = true
 
 [[files]]
-file = "mods/sgtveinminer.pw.toml"
-hash = "49fa8b2deb8616b51895c6b27fe795cdc88efdcf8d0b39030b6d24b54a03e997"
-metafile = true
-
-[[files]]
 file = "mods/shogi.pw.toml"
 hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
 metafile = true
@@ -402,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "3e0099a4124fdbead5f0b39eb3aebc6bd117a10ecc6125387dcfdcef40aef152"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "a2dd7c17d1ce42afa5e4fecf6205d8f13e6a4f3567a68172855806234d719604"
 metafile = true
 
 [[files]]
