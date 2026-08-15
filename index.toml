@@ -305,6 +305,11 @@ hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
 metafile = true
 
 [[files]]
+file = "mods/ore-vein-miner.pw.toml"
+hash = "ee29f8f83a8d066f28fcb15ec704bf5ae62b47f9dd274c5a5c69178166f9dcfb"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "5c54f485a3d166cfa6a931c016f7e31150a34c128271b985ce3c3ceed62d1330"
 metafile = true
@@ -400,8 +405,8 @@ hash = "3e0099a4124fdbead5f0b39eb3aebc6bd117a10ecc6125387dcfdcef40aef152"
 metafile = true
 
 [[files]]
-file = "mods/veinminer.pw.toml"
-hash = "a2dd7c17d1ce42afa5e4fecf6205d8f13e6a4f3567a68172855806234d719604"
+file = "mods/tree-vein-miner.pw.toml"
+hash = "1f2e034bf2722956d54f490bf9b7d78118a1eeaf16cc37d5224eb603704bff6f"
 metafile = true
 
 [[files]]
