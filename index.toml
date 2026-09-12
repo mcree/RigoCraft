@@ -55,13 +55,13 @@ hash = "b30b376356614d2607aa0112c6cfe4f7ad1e4ad27b9258139db684fe5c58b2c5"
 metafile = true
 
 [[files]]
-file = "mods/chest-sort.pw.toml"
-hash = "069933a8c505be990b920f8fb9701ae8b31c5913a9bd871b1751c5b53a131a70"
+file = "mods/cit-resewn-continuation.pw.toml"
+hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn-continuation.pw.toml"
-hash = "bfa62f4186537e29c5e554572ccc2e93f1d9d841044da125e80cb4174063a936"
+file = "mods/clientsort.pw.toml"
+hash = "4bb2161a23edf112b3cba07f7af6f70d9f720f7c12138dbd29077a1e4f1d257a"
 metafile = true
 
 [[files]]

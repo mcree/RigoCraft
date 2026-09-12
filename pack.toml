@@ -1,12 +1,12 @@
 name = "Rigo Craft"
 author = "Erno Rigo"
-version = "26.2-20"
+version = "26.2-22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4900ff67aa76ee9b7597d7f8d2566dff0a23f66e6ee768ae23b90b6127e31937"
+hash = "df546134244d17286218ed36e5a0d8451d81bba82be597f8f2c7d79f78df7cc5"
 
 [versions]
 minecraft = "26.2"
