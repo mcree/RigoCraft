@@ -1,0 +1,13 @@
+name = "Chest Sort"
+filename = "chestsort-2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/taG5zlGt/versions/mTX9d7Xe/chestsort-2.jar"
+hash-format = "sha512"
+hash = "1353c4a25266d7cb7a2918660e58ab801e7a1dcb9415dd6595fd2b5e48b705e277ae8428c4d29534a1ee02be2473e34952c92bd8052153160d948d53de1a03e7"
+
+[update]
+[update.modrinth]
+mod-id = "taG5zlGt"
+version = "mTX9d7Xe"
